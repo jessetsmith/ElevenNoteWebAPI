@@ -14,3 +14,9 @@ C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\obj\Debug\Eleve
 C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\jtann\source\repos\ElevenNoteWebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
